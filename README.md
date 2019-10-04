@@ -25,6 +25,6 @@
 ##### Por ser um aplicativo simples,ele possui apenas uma tela
 ##### Na parte Superior fica a escolha do app, Na parte inferior ficam as 3 escolhas do usuário.
 ##### No meio da tela temos o placar do usuário e do app que ao chegar no 9, é zerado. E então é mostrado se o usuário perdeu ou venceu. 
-![Screenshoot1](https://user-images.githubusercontent.com/49169678/66234965-5e817900-e6c5-11e9-9c2a-a04359f0c044.png)
-![Screenshoot2](https://user-images.githubusercontent.com/49169678/66234968-617c6980-e6c5-11e9-8dee-22024e6a3f73.png)
-![Screenshoot3](https://user-images.githubusercontent.com/49169678/66235386-5544dc00-e6c6-11e9-9c12-53ab83ab536d.png)
+![Screenshoot1](https://user-images.githubusercontent.com/49169678/66235715-18c5b000-e6c7-11e9-8bbd-8b88bd73f9a6.png)
+![Screenshoot2](https://user-images.githubusercontent.com/49169678/66235716-18c5b000-e6c7-11e9-857c-90b9cf87d7d6.png)
+![Screenshoot3](https://user-images.githubusercontent.com/49169678/66235717-18c5b000-e6c7-11e9-9b18-57d235ffd82e.png)
