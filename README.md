@@ -23,3 +23,5 @@
 
 ## Screenshots
 ##### Por ser um aplicativo simples,ele possui apenas uma tela
+![Screenshoot1](https://user-images.githubusercontent.com/49169678/66234965-5e817900-e6c5-11e9-9c2a-a04359f0c044.png)
+![Screenshoot2](https://user-images.githubusercontent.com/49169678/66234968-617c6980-e6c5-11e9-8dee-22024e6a3f73.png)
